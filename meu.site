@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+		<title>Faculdade de Exemplo - Curso de Exemplo - Nome do Estudante</title> 
+</head> 
+
+<body> 
+
+<header> 
+		<h1 style="color: blue;">Faculdade Esup</h1> 
+		<h2>Curso de sistema da informação</h2>
+		<h2>Victor Hugo</h2> 
+</header>
+
+<video width="320" height="240" controls>
+	<source src="video.mp4" >
+</video>
+
+<h3>Lista de Estudos </h3>
+
+<ul>
+	<li><a href="https://www.edx.org/">Estude</a></li>
+	<li><a href="https://br.linkdin.com//">Linkdin</a></li>
+	<li><a href="https://www.Git Hub.com/">Git Hub</a></li>
+</ul>
+
+<h3>Links Úteis da Faculdade</h3>
+
+<ul>
+	<li><a href="https://esup.edu.br//">Site da Faculdade</a></li>
+	<li><a href="https://esup.edu.br/biblioteca">Biblioteca</a></li>
+	<li><a href="https://esup.edu.br/calendario">Calendário Acadêmico</a></li>
+	<li><a href="https://esup.edu.br/fale conosco">Fale Conosco</a></li>
+</ul>
+
+<footer>
+	<a href="creditos.html">Créditos</a>
+</footer>
+</body> 
+</html>
+
+<!DOCTYPE html>
+<html  lang =" pt-br "> 
+    <head>
+        <title> Créditos </title>
+    </head>
+    <body>
+        Tecnologias usadas: HTML <p>  </p>
+        Créditos:Victor Hugo De Paula Mariano
+    </body>
+</html> 
